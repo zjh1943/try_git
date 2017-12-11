@@ -9,11 +9,8 @@ export default class PlaygroundHelloWorld extends React.Component {
     return Diff2Html.getPrettyHtml(obj);
   }
   render() {
-    let diff1 = `
-    
-    
-`;
+    let diff1 = `s sd f sdg  `;
     return <div>
     </div>
   }
-}
+
